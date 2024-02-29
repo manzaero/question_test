@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "question": " Choose the right answer",
+  "title": " Which shape shows thirds? ",
+  "picture": "./img/task_img.png",
+  "answer": [
+    {
+      "option1": "A",
+      "value": true
+    },
+    {
+      "option2": "B",
+      "value": false
+    },
+    {
+      "option3": "C",
+      "value": false
+    }
+  ]
+}
